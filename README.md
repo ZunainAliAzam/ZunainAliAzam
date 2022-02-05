@@ -1,6 +1,6 @@
 ## Hi👋 I’m Zunain Ai Azam
 - 👀 I’m interested in Data science and Web development.
-- - 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on data related projects.
 
 ### - Languages and Tools:
