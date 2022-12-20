@@ -21,7 +21,10 @@
 <a href="https://www.instagram.com/zunain._.azam/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 
 ## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZunainAliAzam&show_icons=true&hide_title=true&text_color=fff&bg_color=000)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=ZunainAliAzam&show_icons=true&theme=nightowl&hide_border=true&bg_color=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=ZunainAliAzam&theme=nightowl&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+</p>
 
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZunainAliAzam&hide_title=true&langs_count=8&text_color=fff&bg_color=000&layout=compact)](https://github.com/ZunainAliAzam/github-readme-stats)
