@@ -1,4 +1,4 @@
-## Hi👋 I’m Zunain Ai Azam
+## Hi👋 I’m Zunain Ali Azam
 - 👀 I’m interested in Data science and analytics.
 - 🌱 I’m currently learning Python and R.
 - 💞️ I’m looking to collaborate on data related projects.
