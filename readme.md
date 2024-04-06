@@ -5,10 +5,21 @@
 </h1>
 
 <div align="center">
+        
+<a href="https://twitter.com/zunain_azam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/zunain-ali-azam-4a985421b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://www.facebook.com/zunain.azam18/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
+<a href="https://www.instagram.com/zunain._.azam/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+
+<div/>
+
+<div align="center">
+        
 <p>
         <samp>「 As a dedicated Web Developer based in Karachi, Pakistan, I'm deeply committed to expanding my expertise in both front-end and back-end development. With a diverse skill set encompassing a range of programming languages, frameworks, and databases, I aim to contribute innovatively to every project I undertake. 」
         </samp>
 </p>
+
 <div/>
 <br>
 
@@ -54,7 +65,7 @@
 <a href="https://github.com/ZunainAliAzam">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZunainAliAzam&theme=radical&border=7F3FBF&background=0D1117" alt="Zunain's Github streak"/>
 </a>
-        <a href="https://github.com/ZunainAliAzam"><img alt="Zunain's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZunainAliAzam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="50%"/>
+        <a href="https://github.com/ZunainAliAzam"><img alt="Zunain's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ZunainAliAzam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="42.5%"/>
         </a>
 </p>
         <p>
@@ -69,15 +80,13 @@
     <br/>
 </a>
 
-
 ![Zunain's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZunainAliAzam&custom_title=Zunain's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<h3><samp> - Reach Out To Me:<samp/><h3/>
-<a href="https://www.linkedin.com/in/zunain-ali-azam-4a985421b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.facebook.com/zunain.azam18/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href="https://twitter.com/zunain_azam" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-<a href="https://www.instagram.com/zunain._.azam/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
-        
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ZunainAliAzam">
+
+</a>
+<a href="https://github.com/ZunainAliAzam?tab=followers"><img src="https://img.shields.io/github/followers/ZunainAliAzam?label=Followers&style=social" alt="GitHub Badge"></a>
 <!---
 ZunainAzam19/ZunainAzam19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
