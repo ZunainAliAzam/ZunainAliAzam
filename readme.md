@@ -1,14 +1,15 @@
 <!-- Intro  -->
 <h1 align="center">
-        <samp>&gt; Hi 👋, I'm
-                <b>Zunain Ali Azam</b>
-        </samp>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=300&color=3368FF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Zunain+Ali+Azam!" alt="Zunain Ali Azam" />
+        </a>
 </h1>
 
-<p align="center">
+<div align="center">
+<p>
         <samp>「 As a dedicated Web Developer based in Karachi, Pakistan, I'm deeply committed to expanding my expertise in both front-end and back-end development. With a diverse skill set encompassing a range of programming languages, frameworks, and databases, I aim to contribute innovatively to every project I undertake. 」
         </samp>
 </p>
+<div/>
 <br>
 
 <div align="center">
@@ -18,10 +19,8 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" />
    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="75" height="75" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" height="75"/>
+        
 <div/>
-<br>
-<br>
-<br>
 
 <div align="left">
 <h3><samp> - TechStack:<samp/><h3/>
@@ -48,11 +47,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 <div/>
   
-<h3><samp> - Reach Out To Me:<samp/><h3/>
-<a href="https://www.linkedin.com/in/zunain-ali-azam-4a985421b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://www.facebook.com/zunain.azam18/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-<a href="https://twitter.com/zunain_azam" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-<a href="https://www.instagram.com/zunain._.azam/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 
 <h3><samp> - My Github Stats:<samp/><h3/>
 <div>
@@ -78,6 +72,12 @@
 
 ![Zunain's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZunainAliAzam&custom_title=Zunain's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+<h3><samp> - Reach Out To Me:<samp/><h3/>
+<a href="https://www.linkedin.com/in/zunain-ali-azam-4a985421b/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/zunain.azam18/" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href="https://twitter.com/zunain_azam" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href="https://www.instagram.com/zunain._.azam/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
+        
 <!---
 ZunainAzam19/ZunainAzam19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
